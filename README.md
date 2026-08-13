@@ -2,8 +2,9 @@ This repository contains the code, datasets, trained models, and visualization t
 
 The repository includes both the reconstruction-only latent-space approach and the extended strain-supervised latent-space framework, enabling analysis of microstructural heterogeneity and its correlation with local deformation/strain fields.
 
-Research Workflow
-
+**Research Workflow**
 NBED patterns → preprocessing → deep-learning representation → latent-space embedding → reconstruction → residual analysis → spatial mapping → strain-guided interpretation
 
-The repository is intended to provide a reproducible computational framework for extracting hidden microstructural information from spatially resolved electron diffraction datasets and for investigating the relationship between diffraction signatures, latent representations, and local deformation.
+The repository is intended to provide a reproducible computational framework for extracting hidden microstructural information from spatially resolved electron diffraction datasets and investigating the relationships among diffraction signatures, latent representations, and local deformation.
+
+**Keywords:** NBED, nanobeam electron diffraction, latent space, deep learning, CVAE, machine learning, strain mapping, microstructural heterogeneity, STEM, electron diffraction, materials informatics.
