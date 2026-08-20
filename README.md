@@ -1,6 +1,8 @@
-This repository contains the code, datasets, trained models, and visualization tools developed for latent-space analysis of nanobeam electron diffraction (NBED) patterns. The workflow uses deep-learning-based representation learning to extract physically meaningful features from NBED datasets and reconstruct spatially resolved microstructural information.
+**Title:** Physics- Guided Latent Representation Learning for Nanobeam Electron Diffraction via Strain- Conditioned Convolutional Variational Autoencoders
 
-The repository includes both the reconstruction-only latent-space approach and the extended strain-supervised latent-space framework, enabling analysis of microstructural heterogeneity and its correlation with local deformation/strain fields.
+This repository contains the code, datasets, trained models, and visualisation tools developed for latent-space analysis of nanobeam electron diffraction (NBED) patterns. The workflow uses deep learning-based representation learning to extract physically meaningful features from NBED datasets and to reconstruct spatially resolved microstructural information.
+
+The repository includes both the reconstruction-only latent-space approach and the extended strain-conditioned latent-space framework, enabling analysis of microstructural heterogeneity and its correlation with local deformation/strain fields.
 
 **Research Workflow:**
 NBED patterns → preprocessing → deep-learning representation → latent-space embedding → reconstruction → residual analysis → spatial mapping → strain-guided interpretation
