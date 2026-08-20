@@ -1,4 +1,4 @@
-**Title:** Physics- Guided Latent Representation Learning for Nanobeam Electron Diffraction via Strain- Conditioned Convolutional Variational Autoencoders
+**Physics- Guided Latent Representation Learning for Nanobeam Electron Diffraction via Strain- Conditioned Convolutional Variational Autoencoders**
 
 This repository contains the code, datasets, trained models, and visualisation tools developed for latent-space analysis of nanobeam electron diffraction (NBED) patterns. The workflow uses deep learning-based representation learning to extract physically meaningful features from NBED datasets and to reconstruct spatially resolved microstructural information.
 
